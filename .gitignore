@@ -6,5 +6,5 @@
 __pycache__/
 *.pth
 
-MNIST_data/
-F_MNIST_data/
+# MNIST_data/
+# F_MNIST_data/
